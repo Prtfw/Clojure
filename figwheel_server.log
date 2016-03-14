@@ -1,0 +1,130 @@
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  resources/public/js/dev/goog/deps.js
+notifying browser that file changed:  resources/public/js/dev/cljs_deps.js
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.789 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var rustyspoon.core/id at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var cljs.core/-> at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var rustyspoon.core/images at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var rustyspoon.core/id at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var cljs.core/-> at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var rustyspoon.core/images at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 1.126 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var rustyspoon.core/id->images at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+WARNING: Use of undeclared Var rustyspoon.core/id->images at line 52 /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.548 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.504 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.454 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.624 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.56 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.668 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.333 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.353 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.473 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.765 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.42 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.775 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.416 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.393 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.353 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.741 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.446 seconds.[0m
+[0mCompiling "resources/public/js/dev.js" from ["src"]...
+Compiling /Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/mengningshang/Desktop/Dev_Env/Clo/src/rustyspoon/core.cljs to resources/public/js/dev/rustyspoon/core.cljs
+notifying browser that file changed:  out/rustyspoon/core.js
+[32mSuccessfully compiled "resources/public/js/dev.js" in 0.379 seconds.[0m
